@@ -297,7 +297,7 @@ function HomePage() {
         </div>
         <div className="bg-purple-200 flex flex-col md:flex-row justify-center items-center w-5/6 mx-auto rounded-xl my-3">
           <img className="" src={timeout} alt="timeout" />
-          <h4 className="mx-10 w-[30rem]">Tasks related to social media posts and surveys can take up to 2 business days to appear as completed as these tasks need to be manually approved by the CRC team.</h4>
+          <h4 className="mx-10 w-[20rem] md:w-[30rem]">Tasks related to social media posts and surveys can take up to 2 business days to appear as completed as these tasks need to be manually approved by the CRC team.</h4>
         </div>
       </section>
     </div>
